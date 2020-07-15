@@ -1,4 +1,4 @@
-package io.fosdick.tlsexample.tls;
+package io.fosdick.basictlsexample.tls;
 
 import org.bouncycastle.util.Strings;
 import org.slf4j.Logger;

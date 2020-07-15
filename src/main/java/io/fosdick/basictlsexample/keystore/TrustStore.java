@@ -1,4 +1,4 @@
-package io.fosdick.tlsexample.keystore;
+package io.fosdick.basictlsexample.keystore;
 
 import java.security.KeyStore;
 import java.util.Enumeration;

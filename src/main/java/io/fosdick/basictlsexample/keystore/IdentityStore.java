@@ -1,6 +1,6 @@
-package io.fosdick.tlsexample.keystore;
+package io.fosdick.basictlsexample.keystore;
 
-import io.fosdick.tlsexample.struct.X509CertPrivateKeyHolder;
+import io.fosdick.basictlsexample.struct.X509CertPrivateKeyHolder;
 import org.bouncycastle.asn1.x500.X500Name;
 import org.bouncycastle.asn1.x500.X500NameBuilder;
 import org.bouncycastle.asn1.x500.style.BCStyle;

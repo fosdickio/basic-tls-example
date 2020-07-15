@@ -1,6 +1,6 @@
-package io.fosdick.tlsexample.tls;
+package io.fosdick.basictlsexample.tls;
 
-import io.fosdick.tlsexample.keystore.IdentityStore;
+import io.fosdick.basictlsexample.keystore.IdentityStore;
 import org.bouncycastle.util.Strings;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

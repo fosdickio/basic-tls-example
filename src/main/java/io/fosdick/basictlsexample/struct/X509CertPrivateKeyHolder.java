@@ -1,4 +1,4 @@
-package io.fosdick.tlsexample.struct;
+package io.fosdick.basictlsexample.struct;
 
 import java.security.PrivateKey;
 import java.security.cert.X509Certificate;

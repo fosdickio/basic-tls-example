@@ -1,11 +1,11 @@
-package io.fosdick.tlsexample;
+package io.fosdick.basictlsexample;
 
 import java.security.Security;
 
-import io.fosdick.tlsexample.keystore.IdentityStore;
-import io.fosdick.tlsexample.tls.TLSClient;
-import io.fosdick.tlsexample.tls.TLSServer;
-import io.fosdick.tlsexample.keystore.TrustStore;
+import io.fosdick.basictlsexample.keystore.IdentityStore;
+import io.fosdick.basictlsexample.tls.TLSClient;
+import io.fosdick.basictlsexample.tls.TLSServer;
+import io.fosdick.basictlsexample.keystore.TrustStore;
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
 import org.bouncycastle.jsse.provider.BouncyCastleJsseProvider;
 
